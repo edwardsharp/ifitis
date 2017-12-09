@@ -1,2 +1,2 @@
-# ifitis
+# IF/IT/IS
 ifitis.org
